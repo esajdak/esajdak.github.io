@@ -48,8 +48,9 @@ nav li, #image ul li {
     margin: 0 1em 0 1em;
 }
 
-p.rightSideNav {
-    margin-left: auto;
+.rightSideNav {
+    float: right;
+
 }
 
 a {
